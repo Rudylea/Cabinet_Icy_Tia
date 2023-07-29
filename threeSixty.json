@@ -1,0 +1,172 @@
+{
+  "version": "3.71.29339.0",
+  "course_id": "5vNUF0AK1xz",
+  "title": "Escape-Game",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Escape intro"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5fWyqUlOTw7",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5d4dBHirO4S",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5fGvToXmBGb",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6lHRZcZerZJ",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5yyMsz06aqO",
+      "title": "Les heures supplémentaires se déclenchent à partir de \n35 heures hebdomadaires ou 1 607 heures ",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "65QtTA9vLn8",
+      "title": "La semaine civile se décompte du lundi 00 heure au \nvendredi soir 24 heures. ",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6DEv5A7Wnkj",
+      "title": "Un salarié peut exiger la réalisation d’heures \nsupplémentaires.",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5tXuPYZoxcF",
+      "title": "Un salarié peut travailler maximum 48 heures par \nsemaine. ",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6DN1lKVQBTB",
+      "title": "Sur une période de 12 semaines, le salarié ne doit\n pas dépasser les 42 heures hebdomadaires. ",
+      "scene_index": "1.9"
+    },
+    {
+      "id": "5fcaGkMCV91",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.10"
+    },
+    {
+      "id": "6En8qdnkFY6",
+      "title": "Saisie de texte",
+      "scene_index": "1.11"
+    },
+    {
+      "id": "5hUR1DbhSX4",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.12"
+    },
+    {
+      "id": "6JdtyQrFxti",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.13"
+    },
+    {
+      "id": "5iAa2P1vUpj",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.14"
+    },
+    {
+      "id": "60oGIRgTHi8",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.15"
+    },
+    {
+      "id": "60ZZKMa1bIq",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.16"
+    },
+    {
+      "id": "6NNB0fY97Ge",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.17"
+    },
+    {
+      "id": "6Db2Xbx12KK",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.18"
+    },
+    {
+      "id": "69ehAqFt74n",
+      "title": "calque 1",
+      "scene_index": "1.19"
+    },
+    {
+      "id": "5vJiHj7Nr0X",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.20"
+    },
+    {
+      "id": "5qUhO3gIerA",
+      "title": "calque 1",
+      "scene_index": "1.21"
+    },
+    {
+      "id": "6WiDWC4n5Xg",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.22"
+    },
+    {
+      "id": "5cJlgEjXk3A",
+      "title": "Diapositive sans titre",
+      "scene_index": "1.23"
+    },
+    {
+      "id": "65Eg1FALMkz",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.24"
+    },
+    {
+      "id": "5aaoZBVAbjv",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.25"
+    },
+    {
+      "id": "6YxEpnAa8Jk",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.26"
+    },
+    {
+      "id": "6876AB6my1N",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.27"
+    },
+    {
+      "id": "5j7d5LWet3C",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.28"
+    },
+    {
+      "id": "6OgZE9skUw7",
+      "title": "Choisir plusieurs réponses",
+      "scene_index": "1.29"
+    },
+    {
+      "id": "6MyD53q2KOu",
+      "title": "Résultats du quiz",
+      "scene_index": "1.30"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
